@@ -1,2 +1,2 @@
 # hello-world
-learn to use git
+This is zhenyi.
